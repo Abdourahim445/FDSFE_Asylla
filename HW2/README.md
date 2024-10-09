@@ -1,7 +1,9 @@
-what the homework was about
+what the homework was about?
+
 The homework was about checking students Exam scores and how different variables affect those scores.
 
 what you learned (one or two may take home points for you from doing the exercise. Can be the analytical aspects or some practical method to do things)
+
 I understood the correlation analysis map even more and how to read it.
 
 who you worked with
