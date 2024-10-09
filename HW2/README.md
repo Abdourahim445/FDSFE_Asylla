@@ -7,6 +7,7 @@ what you learned (one or two may take home points for you from doing the exercis
 I understood the correlation analysis map even more and how to read it.
 
 who you worked with
+
 By myself.
 
 what you contributed specifically into the group work (if this assignment was hard for you and you do not feel like you were leading any aspects 
