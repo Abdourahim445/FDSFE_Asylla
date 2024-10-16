@@ -1,3 +1,8 @@
+Date: 10/15/2024
+I worked on my own.
+
 Homework 5, logistic regression.
 In this homework, we looked at different features in a data frame and analyzed their behavior in contrast to each other.
-After analysis, we fit the data to a linear model for further observation and we found the precise percentages of 
+After analysis, we fit the data to a linear model for further observation and we found the precise percentages of the model's performance for each class
+and identified the correctly, incorrectly and closely read predictions. We also plotted a confusion matrix graph to find the positive 
+and negative predictions. 
